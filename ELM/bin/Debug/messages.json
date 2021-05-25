@@ -1,0 +1,34 @@
+[
+  {
+    "phoneNumber": "+447484876521",
+    "messageHeader": "S123123123",
+    "messageTxt": ""
+  },
+  {
+    "phoneNumber": "+447484876521",
+    "messageHeader": "S123123124",
+    "messageTxt": "\r\nAAP <Always a pleasure> "
+  },
+  {
+    "twitterName": "@jim",
+    "messageHeader": "T123123124",
+    "messageTxt": ""
+  },
+  {
+    "emailAddress": "gm@gm.com",
+    "emailSubject": "test",
+    "messageHeader": "E123123124",
+    "messageTxt": ""
+  },
+  {
+    "emailAddress": "gm@gm.com",
+    "emailSubject": "test",
+    "messageHeader": "E123123124",
+    "messageTxt": "\r\nhi"
+  },
+  {
+    "twitterName": "@jim",
+    "messageHeader": "T123123124",
+    "messageTxt": "\r\nthis is test"
+  }
+]
